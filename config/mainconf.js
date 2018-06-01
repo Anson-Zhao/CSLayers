@@ -22,7 +22,7 @@ module.exports = {
     'Login_table': 'Users',
     'Upload_db': 'FAWv4',
 
-    'Server_Port': 9088,
+    'Server_Port': 9086,
 
     'Upload_Path': 'http://faw.aworldbridgelabs.com/uploadfiles'
 
