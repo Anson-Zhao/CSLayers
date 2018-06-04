@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GeoLayer.iml" filepath="$PROJECT_DIR$/.idea/GeoLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CSLayers/.idea/CSLayers.iml" filepath="$PROJECT_DIR$/../CSLayers/.idea/CSLayers.iml" />
     </modules>
   </component>
 </project>
