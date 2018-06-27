@@ -44,7 +44,7 @@ input[type='submit']:hover{
     color: #ffffff;
 }
 
-input[type="button"]:disabled {
+input[type=""]:disabled {
     background: #dd7777;
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
@@ -230,8 +230,8 @@ input[type='text'], select, .inputNumber {
 #container {
     /*border: solid 3px #474544;*/
     max-width: 80%;
-    margin: 60px auto;
-    position: relative;
+    margin: auto;
+    position: center;
     padding: 50px;
     font-family: Arial, Helvetica, sans-serif;
 
